@@ -15,7 +15,7 @@ README.md
 
 ## Getting Started
 
-Run script.py.
+Run label_audio.py.
 
 ### Installation/Dependencies
 
