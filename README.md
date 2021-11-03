@@ -1,4 +1,4 @@
-#Script for opening and labeling mp3 files 
+## Script for opening and labeling mp3 files 
 
 The aim of this project is to write a script which will process mp3 files while giving labeling opportunity to users.
 
